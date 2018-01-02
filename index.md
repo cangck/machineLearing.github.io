@@ -3,6 +3,11 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+#github上的blog资料
+
+[github.io常用网址](blogs).
+
+[books](books).
 
 [Link to another page](another-page).
 
